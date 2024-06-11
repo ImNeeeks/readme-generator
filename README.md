@@ -1,5 +1,3 @@
 # readme-generator
 
 ## Description
-
-test
