@@ -20,8 +20,7 @@ Walkthrough video
 - A caption for screenshot
 ![alt text](assets/images/screenshot.png)
 -->
-<video src='https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view' width=600></video>
-<iframe src="https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/preview" width="640" height="480"></iframe>
+<video src="https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/preview" width="640" height="480"></video>
 
 ## License
 MIT License
