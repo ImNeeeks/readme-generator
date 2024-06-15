@@ -12,7 +12,9 @@
 
 ## Installation
 - Install node.js 
-- Install node.js inquirer package: npm i inquirer@8.2.4
+- Install node.js inquirer package: 
+
+npm i inquirer@8.2.4
 
 ## Usage
 [Walkthrough Video](https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view)
