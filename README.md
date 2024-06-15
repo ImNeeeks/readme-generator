@@ -21,7 +21,7 @@ Walkthrough video
 ![alt text](assets/images/screenshot.png)
 -->
 <video src='https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view' width=600></video>
-
+[text](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihY5SWyYoDCvrGfLCtRdW_WnQX1Syw5LqD_eha2I6Yn9Y5bY8J3xaI2kXt__WmrwrIAAMLNbqxeGF6M0LDU5YN15lkN6gtA6ffo%3Dw1920-h1080-k-rw-v1-pd)
 ## License
 MIT License
 
