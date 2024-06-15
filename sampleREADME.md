@@ -1,18 +1,25 @@
+<!-- omit in toc -->
 # readme-generator
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<!-- omit in toc -->
 ## Description
   This is a simple command-line application that will quickly generate a professional README.md file.
 
+<!-- omit in toc -->
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
-- Install node.js 
-- Install node.js inquirer package: npm i inquirer@8.2.4
+Install node.js & inquirer package
 
 ## Usage
 Walkthrough video
@@ -20,10 +27,21 @@ Walkthrough video
 - A caption for screenshot
 ![alt text](assets/images/screenshot.png)
 -->
-<video src='https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view' width=600></video>
+
+## Credits
+N/A
 
 ## License
 MIT License
+
+## Features
+Professional README.md generator
+
+## How to Contribute
+In progress.
+
+## Tests
+In progress
 
 ## Questions
 If you have any questions regarding this project, contact me via:
