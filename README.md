@@ -15,12 +15,7 @@
 - Install node.js inquirer package: npm i inquirer@8.2.4
 
 ## Usage
-Walkthrough video
-<!--
-- A caption for screenshot
-![alt text](assets/images/screenshot.png)
--->
-[link](https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view)
+[Walkthrough Video](https://drive.google.com/file/d/1tEmJxGFfXWiBX984XRxke5R55DuL3iGw/view)
 
 ## License
 MIT License
